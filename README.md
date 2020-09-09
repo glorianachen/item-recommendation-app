@@ -7,16 +7,19 @@
 ## Description
 This project is a web application where you can search for available musical events nearby, mark and record your favorites, then get recommendations based on machine learning algorithms.
 
-## Webpage
-
-All the materials for building the website are in folder "Website Visualization"
 
 ## Project Highlights
- ![image1](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/screen1.png)
+Here is the screenshot of the login page:
+
+ ![image1](https://github.com/glorianachen/job-recommendation-app/blob/master/readmeFile/Screen%20Shot%202020-09-09%20at%2011.43.48.png)
  
- ![image2](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/screen2.png)
+ Then this is the page of the items nearby
  
- ![image3](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/screen3.png)
+ ![image2](https://github.com/glorianachen/job-recommendation-app/blob/master/readmeFile/Screen%20Shot%202020-09-09%20at%2011.32.45.png)
+ 
+ After marking some favorites, similar items will show up in the recommendation section
+ 
+ ![image3](https://github.com/glorianachen/job-recommendation-app/blob/master/readmeFile/Screen%20Shot%202020-09-09%20at%2011.44.15.png)
 
 ## Installation
 ### Step one:
