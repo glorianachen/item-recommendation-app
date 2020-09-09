@@ -1,8 +1,7 @@
-[![Licence](https://img.shields.io/badge/Language-JavaScript+Python-brightgreen)[![Licence](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/XinzeWang/Intersection-Analysis/raw/master/LICENSE) 
+![Licence](https://img.shields.io/badge/Language-Java+Javascript-brightgreen)[![Licence](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/XinzeWang/Intersection-Analysis/raw/master/LICENSE) 
 
 # Item Recommendation app
 
-![title_logo](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/logo.png)
 
 ## Description
 This project is a web application where you can search for available musical events nearby, mark and record your favorites, then get recommendations based on machine learning algorithms.
